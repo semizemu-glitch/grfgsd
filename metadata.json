@@ -1,0 +1,6 @@
+{
+  "name": "ApexVPN - V2Ray, VLESS & VMess Mobile VPN",
+  "description": "Mobile-first VPN client featuring one-tap instant secure connection, ChaCha20/AES-256 encryption, and ultra-fast V2Ray, UDP, VLESS, VMess, and Trojan server support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
